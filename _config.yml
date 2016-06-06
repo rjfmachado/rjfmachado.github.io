@@ -30,7 +30,7 @@ force-https: False
 
 lang: "en"
 author: "Ricardo Machado"
-title: "{ ricardomachado.net }"
+title: "ricardomachado.net"
 description: "This is the personal space of Ricardo Machado. Opinions expressed are mine."
 keywords: "machado, ricardo, personal, microsoft"
 favicon: "/img/favicon.ico"
