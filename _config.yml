@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/photo-1461088778056-88bf6d3cefcd.jpg"
+background-img: "../img/photo-1463412855783-af97e375664b.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -118,7 +118,7 @@ syntax-highlight: True
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+#timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
@@ -134,8 +134,8 @@ timeline-img: "/img/timeline/default.png"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Benfica, Ericeira, LEGO"
-author_blurb_image: "/img/author.png"
+#author_blurb: "Benfica, Ericeira, LEGO"
+#author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
