@@ -94,11 +94,11 @@ fb-share: True
 twitter-share: True
 linkedin-share: True
 reddit-share: True
-google-plus-share: True
+google-plus-share: False
 tumblr-share: True
 pinterest-share: True
 pocket-share: True
-vkontakte-share: True
+vkontakte-share: False
 
 disqus-shortname: "ricardomachadonet"
 
@@ -167,7 +167,7 @@ social:
 
 pages_list:
   About: 'about'
-  #Blog: 'latest-post'
+  Blog: 'latest-post'
   #Timeline: 'timeline'
   Contact: 'contact'
 
