@@ -39,9 +39,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: ""
+black-favicon: "/img/rfmachado32x32.png"
 
-background-img: "../img/photo-1465066989788-372fcdde2f2c.jpg"
+background-img: "../img/photo-1465207135590-523211e873ba.jpg"
 
 ##############################
 # Dynamic Text on the Header #
