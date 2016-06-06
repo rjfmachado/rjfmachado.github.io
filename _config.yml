@@ -100,7 +100,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "rjfmachado"
+disqus-shortname: "ricardomachadonet"
 
 syntax-highlight: True
 
@@ -108,13 +108,13 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+#events:
+#  - image: "/img/timeline/spidertocat.png"
+#    date: "September 2013 - Today"
+#    description: "Saving the neighborhood!"
+#  - image: "/img/timeline/baracktocat.jpg"
+#    date: "September 2007 - August 2013"
+#    description: "Started coding"
 
 # First image of the Timeline
 
@@ -124,7 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+#email: "your@email.here"
 
 ################
 # Author Blurb #
@@ -145,7 +145,7 @@ social:
 #  - title: "facebook"
 #    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/rjfmachado"
   - title: "github"
     url: "https://github.com/rjfmachado"
 #  - title: "bitcoin"
@@ -167,8 +167,8 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
+  #Blog: 'latest-post'
+  #Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
