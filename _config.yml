@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "../img/rfmachado32x32.png"
+black-favicon: "/img/favicon.ico"
 
 background-img: "../img/photo-1465207135590-523211e873ba.jpg"
 
