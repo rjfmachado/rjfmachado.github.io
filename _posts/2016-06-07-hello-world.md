@@ -3,6 +3,8 @@ layout: post
 section-type: post
 title: The obligatory Hello World post!
 tags: [ 'blog' ]
+category: tech
+excerpt_separator: ""
 ---
 
 Well, hello!

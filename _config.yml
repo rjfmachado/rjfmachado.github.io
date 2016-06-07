@@ -104,8 +104,6 @@ disqus-shortname: "ricardomachadonet"
 
 syntax-highlight: True
 
-excerpt_separator: ""
-
 ############
 # Timeline #
 ############
