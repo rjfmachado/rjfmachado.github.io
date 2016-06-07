@@ -152,14 +152,14 @@ social:
     url: "https://pt.linkedin.com/in/rjfmachado"
 #  - title: "bitcoin"
 #    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-#  - title: "rss"
-#    url: "/feed.xml"
+  - title: "rss"
+    url: "/feed.xml"
 
 ############
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+#404-img: "/img/labtocat.png"
 
 ################################################################################
 
@@ -169,7 +169,7 @@ social:
 
 pages_list:
   About: 'about'
-  #Blog: 'latest-post'
+  Blog: 'latest-post'
   #Timeline: 'timeline'
   Contact: 'contact'
 
