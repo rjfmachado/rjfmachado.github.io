@@ -2,7 +2,7 @@
 <!-- Post List Start -->
 
 <h4 align="left">
-  <strong>{{ post.date | date_to_string }}</strong>
+  <strong>Posted by {{ post.author }} on {{ post.date | date_to_string }}</strong>
   <small>.
     <a class="category" href="{{site.baseurl}}/categories/{{ post.category | downcase }}.html">
       {{ post.category }}
