@@ -2,7 +2,6 @@
 layout: post
 section-type: post
 title: The obligatory Hello World post!
-category: tech
 tags: [ 'blog' ]
 ---
 
