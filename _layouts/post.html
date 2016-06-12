@@ -8,17 +8,15 @@
 
   <body>
 
+    {% include navigation.html %}
+
     <section id="post" class="container content-section text-left">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
-          <h1><strong>{{ page.title }}</strong></h1>
-        </div>
-      </div>
-    </section>
 
-    <section id="post" class="container content-section text-justify">
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1">  
+          {% include swipe-instructions.html %}
+
+          <h1><strong>{{ page.title }}</strong></h1>
           <h4>
             <strong>{{ page.date | date_to_string }}</strong>
             <small>
