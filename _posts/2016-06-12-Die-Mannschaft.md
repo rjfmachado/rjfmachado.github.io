@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Die deutsche Fußballnationalmannschaft...
-tags: [ 'lego', 'minifigure' ]
+tags: [ 'lego', 'minifig' ]
 category: fun
 excerpt_separator: ""
 ---
