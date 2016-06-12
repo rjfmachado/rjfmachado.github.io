@@ -9,4 +9,4 @@ excerpt_separator: ""
 
 ...is in the house!
 
-!(LEGO 71014)[/img/blog/die-mannschaft-lego.jpg]
+![LEGO 71014](/img/blog/die-mannschaft-lego.jpg)
