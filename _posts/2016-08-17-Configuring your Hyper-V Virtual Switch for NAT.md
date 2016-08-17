@@ -21,5 +21,5 @@ Also, the following is a quick and dirty way to get the Hyper-V switch interface
 (Get-NetAdapter -InterfaceDescription Hyper-V*).ifIndex
 ````
 
-Hope this helps.
+Hope this helps.  
 Ricardo
