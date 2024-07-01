@@ -1,4 +1,3 @@
-
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -16,13 +15,13 @@ baseurl: ""
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-78889100-1"
+#google-tracking-id: "UA-78889100-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: False
+force-https: True
 
 #############
 # HTML Head #
@@ -91,18 +90,16 @@ excerpt_separator: ""
 
 paginate: 5
 
-email-share: True
-fb-share: True
-twitter-share: True
+email-share: False
+fb-share: False
+twitter-share: False
 linkedin-share: True
-reddit-share: True
+reddit-share: False
 google-plus-share: False
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
 vkontakte-share: False
-
-disqus-shortname: "ricardomachadonet"
 
 syntax-highlight: True
 
@@ -126,8 +123,6 @@ syntax-highlight: True
 # Contact #
 ###########
 
-email: "rjfmachado@gmail.com"
-
 ################
 # Author Blurb #
 ################
@@ -144,18 +139,10 @@ email: "rjfmachado@gmail.com"
 ##################
 
 social:
-#  - title: "facebook"
-#    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/rjfmachado"
   - title: "github"
     url: "https://github.com/rjfmachado"
   - title: "linkedin"
     url: "https://pt.linkedin.com/in/rjfmachado"
-# - title: "feedly"
-#    url: "http://cloud.feedly.com/#subscription/feed/http://ricardomachado.net/feed.xml"
-#  - title: "bitcoin"
-#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
@@ -172,11 +159,11 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
+  About: "about"
+  #Blog: 'latest-post'
   #Timeline: 'timeline'
-  Contributions: 'contributions'
-  Contact: 'contact'
+  #Contributions: 'contributions'
+  Contact: "contact"
 
 # Exclusion list from the generated _site
 
